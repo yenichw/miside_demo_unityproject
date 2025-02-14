@@ -4,4 +4,4 @@ for informational purposes only, copyright AIHATSO.
 are your rights violated? write to the moderator in chat! 
 files may be deleted at the request of the copyright holder.
 https://t.me/msd_editor_discussion - Join our ranks to restore the source code for the full version of the game.
-Unfortunately, the file is too large, so it is in the “Pinned Files” group.
+Unfortunately, the file is too large, so it is in the pined files group.
