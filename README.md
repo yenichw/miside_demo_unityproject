@@ -2,7 +2,7 @@
 
 ![Miside Logo](https://static.wikia.nocookie.net/miside-ru/images/7/73/Logo-bg.png/revision/latest/scale-to-width-down/683?cb=20241214124554&path-prefix=ru)
 
-> **Dive into the code.** This is the source code of *Miside Demo* – explore how everything works under the hood!
+> This is the source code of *Miside Demo* – explore how everything works under the hood!
 
 ---
 
