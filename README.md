@@ -1,4 +1,4 @@
-# 🎮 Miside Demo – Source Code
+# 🎮 Miside Demo – Source Project
 
 ![Miside Logo](https://static.wikia.nocookie.net/miside-ru/images/7/73/Logo-bg.png/revision/latest/scale-to-width-down/683?cb=20241214124554&path-prefix=ru)
 
@@ -39,7 +39,7 @@ All' for introductory purposes!
 
 ## 👨‍💻 credits
 
-- **[Yen]([https://t.me/DIShared])** – fixer/lead
+- **[Yen](https://t.me/DIShared)** – fixer/lead
 - thanks also to other members 
 
 ---
