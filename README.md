@@ -39,14 +39,14 @@ All' for introductory purposes!
 
 ## 👨‍💻 credits
 
-- **[Yen](https://t.me/DIShared)** – fixer/lead
+- **[Yen](https://t.me/dllexeption)** – fixer/lead
 - thanks also to other members 
 
 ---
 
 ## 💬 Feedback
 
-If you have any questions, suggestions, or ideas – join our [Telegram](@msd_editor_discussion) or create an issue in this repository!
+If you have any questions, suggestions, or ideas – join our [Telegram](https://t.me/msd_editor_discussion) or create an issue in this repository!
 
 **This project is published exclusively for educational purposes and may be removed at the request of the copyright holder, if you believe that your rights have been violated, please contact the leader.**
 
