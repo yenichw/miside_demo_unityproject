@@ -37,11 +37,6 @@ All' for introductory purposes!
 
 ---
 
-## 👨‍💻 credits
-
-- **[Yen](https://t.me/dllexeption)** – fixer/lead
-- thanks also to other members 
-
 ---
 
 ## 💬 Feedback
